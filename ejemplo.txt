@@ -1,1 +1,2 @@
 Esto es un ejemplo de un archivo de repositorio.
+se ha editado el ejemplo para hacer un segundo commit.
